@@ -8,11 +8,11 @@ Target hidden Squarespace URL:
 
 `https://www.everydaycfos.com/heloc-calculator`
 
-## CDN URL
+## Public embed URL
 
-Use jsDelivr against the `main` branch:
+Use GitHub Pages:
 
-`https://cdn.jsdelivr.net/gh/everydaycfos/heloc-calculator-embed@main/index.html`
+`https://everydaycfos.github.io/heloc-calculator-embed/`
 
 ## Squarespace code block
 
